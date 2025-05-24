@@ -267,22 +267,53 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "Udemy",
+      subtitle: "The Git & Github Bootcamp",
+      logo_path: "udemy_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
+        "https://www.udemy.com/certificate/UC-c7bc5e73-5db9-414d-a233-41d0616a3c31/",
+      alt_name: "Udemy",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "SEETB",
+      subtitle: "ISTQB Foundation Level",
+      logo_path: "istqb_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
+        "https://1drv.ms/b/c/4f2b4b1f5e2bd5e5/Ee7rikMoYJNEqnj5abMLxqcBBU_8ONg_8EH-WLEv1z9fUw?e=XPHUG6",
+      alt_name: "ISTQB",
+    },
+    {
+      title: "Udemy",
+      subtitle: "Cucumber BDD with Java",
+      logo_path: "udemy_logo.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-6987fdbc-d9fe-4ae8-95d9-05c22950aa2b/",
+      alt_name: "Udemy",
+    },
+    {
+      title: "Software University",
+      subtitle: "JavaScript Advanced",
+      logo_path: "softuni_logo.png",
+      certificate_link:
+        "https://softuni.bg/certificates/details/203257/40a885b5",
+      alt_name: "Software University",
+    },
+    {
+      title: "Telerik Academy",
+      subtitle: "Alpha 50 QA",
+      logo_path: "telerik_logo.png",
+      certificate_link:
+        "https://1drv.ms/b/c/4f2b4b1f5e2bd5e5/EYW0yr7GVg1It5xgYLEjMaoBVsl5wzX9Thoxl8zRVoGO8A?e=9oz1YA",
+      alt_name: "telerik academy",
       color_code: "#00000099",
+    },
+    {
+      title: "Software University",
+      subtitle: "Web Fundatemntals - HTML5",
+      logo_path: "softuni_logo.png",
+      certificate_link:
+        "https://softuni.bg/certificates/details/18644/d668a8e7",
+      alt_name: "Software University",
     },
   ],
 };
