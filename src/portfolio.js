@@ -191,85 +191,75 @@ const skills = {
 
 // Education Page
 const competitiveSites = {
-  competitiveSites: [
-    {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
-      style: {
-        color: "#F79F1B",
-      },
-      profileLink: "https://leetcode.com/layman_brother/",
-    },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
-  ],
+  competitiveSites: [],
 };
 
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      title: "Pragmatik",
+      subtitle: "DevOps Essentials",
+      logo_path: "pragmatik_logo.png",
+      alt_name: "Pragmatik",
+      duration: "01/2025 - 06/2025",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Comprehensive DevOps course at Pragmatic, gaining essential practical and theoretical knowledge for a career in the DevOps field.",
+        "⚡ Explored best practices for automation, infrastructure management, and team synchronization, preparing for roles like DevOps Engineer.",
+        "⚡ Applied these concepts by building a personal portfolio website, implementing a CI/CD pipeline with GitHub Actions, and deploying to GitHub Pages as a final project.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://pragmatic.bg/courses/devops-course/",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
+      title: "Software University",
+      subtitle: "Javascript Advanced",
+      logo_path: "softuni_logo.png",
+      alt_name: "SoftUni",
+      duration: "01/2024 - 02/2024",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Acquired advanced JavaScript skills through the SoftUni JS Advanced program, covering core syntax, data structures, and object-oriented principles.",
+        "⚡ Gained expertise in DOM manipulation, event handling, advanced functions, and the application of functional programming techniques.",
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://softuni.bg/courses/js-advanced",
+    },
+    {
+      title: "Telerik Academy",
+      subtitle: "Alpha QA Track",
+      logo_path: "telerik_logo.png",
+      alt_name: "Telerik Academy",
+      duration: "05/2023 - 10/2023",
+      descriptions: [
+        "⚡ Completed the intensive 6-month Alpha QA Track at Telerik Academy, focusing on hands-on practical skills in both manual and automated testing.",
+        "⚡ Mastered crucial programming fundamentals and modern QA principles, gaining proficiency with industry-standard tools and methodologies.",
+        "⚡ The program included significant project work and a strong emphasis on developing essential soft skills.",
+      ],
+      website_link: "https://www.telerikacademy.com/alpha/qa",
+    },
+    {
+      title: "New Bulgarian University",
+      subtitle: "Master of Business Administration",
+      logo_path: "NBU_logo.png",
+      alt_name: "NBU",
+      duration: "03/2012 - 11/2014",
+      descriptions: [
+        "⚡ Completed a Master of Business Administration program designed to deepen understanding of business operations and strategic goal achievement in dynamic environments.",
+        "⚡ Acquired skills in applying concrete strategies for organizational success and utilizing diagnostic tools for market and organizational forecasting.",
+      ],
+      website_link:
+        "https://nbu.bg/en/about-nbu/new-bulgarian-university/university-campus",
+    },
+    {
+      title: "New Bulgarian University",
+      subtitle: "Bachelor of Finance",
+      logo_path: "NBU_logo.png",
+      alt_name: "NBU",
+      duration: "09/2005 - 06/2010",
+      descriptions: [
+        "⚡ Completed a Bachelor's degree in Finance, building a strong foundation in core economic principles and specialized financial knowledge.",
+        "⚡ Gained practical skills through internships and working on individual assignments on current issues in modern financial practice.",
+        "⚡ Acquired expertise in areas such as company and public finance, financial management, investments, and financial risk analysis.",
+      ],
+      website_link:
+        "https://nbu.bg/en/about-nbu/new-bulgarian-university/university-campus",
     },
   ],
 };
@@ -293,96 +283,6 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
     },
   ],
 };
