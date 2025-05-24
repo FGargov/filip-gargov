@@ -58,12 +58,14 @@ const skills = {
       title: "DevOps Essentials",
       fileName: "DataScienceImg",
       skills: [
-        "🐧 Developing foundational skills in Linux administration.",
+        "🐧 Acquiring foundational skills in Linux administration.",
         "📜 Developing foundational skills in Bash/Python scripting for automation.",
-        "🔄 Developing foundational skills in CI/CD principles.",
-        "⚡ Developing foundational skills in Git version control.",
-        "🐳 Developing foundational skills in Docker containerization.",
-        "☁️ Focusing current professional development on Cloud technologies, particularly AWS",
+        "🔄 Learning foundational skills in CI/CD principles.",
+        "⚡ Strengthening foundational skills in Git version control.",
+        "🐳 Comprehending foundational skills in Docker containerization.",
+        "🗄️ Acquiring foundational knowledge of database concepts and management.",
+        "🛠️ Understanding principles of configuration management (e.g., Ansible).",
+        "☁️ Focusing current professional development on Cloud technologies, particularly AWS.",
       ],
       softwareSkills: [
         {
@@ -109,6 +111,20 @@ const skills = {
           },
         },
         {
+          skillName: "Database",
+          fontAwesomeClassname: "devicon:sqldeveloper",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Ansible",
+          fontAwesomeClassname: "devicon:ansible-wordmark",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
@@ -118,191 +134,55 @@ const skills = {
       ],
     },
     {
-      title: "Full Stack Development",
+      title: "Quality Assurance",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "🧪 Focusing on QA Engineering, with comprehensive training in both manual and automated testing methodologies.",
+        "⚙️ Developing and executing detailed test plans and test cases to ensure software quality.",
+        "🐞 Identifying, documenting, and tracking software defects using tools like Jira and Xray.",
+        "📊 API testing using tools like Postman and REST Assured to validate service functionality.",
+        "🤖 Developing capabilities in test automation leveraging frameworks like Selenium WebDriver and Cucumber.",
+        "📈 Committed to continuous learning and adopting new QA technologies and best practices.",
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
+          skillName: "Java",
+          fontAwesomeClassname: "devicon:java",
+          style: { color: "#007396" },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
+          skillName: "Javascript",
+          fontAwesomeClassname: "devicon:javascript",
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
+          skillName: "Selenium WebDriver",
+          fontAwesomeClassname: "logos:selenium",
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
+          skillName: "JUnit",
+          fontAwesomeClassname: "devicon:junit-wordmark",
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
+          skillName: "REST Assured (API)",
+          fontAwesomeClassname: "mdi:api",
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-          style: {
-            color: "#339933",
-          },
+          skillName: "Postman",
+          fontAwesomeClassname: "logos:postman-icon",
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
+          skillName: "Cucumber",
+          fontAwesomeClassname: "logos:cucumber",
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
+          skillName: "Jira",
+          fontAwesomeClassname: "devicon:jira-wordmark",
+          style: { color: "#0052CC" },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-      ],
-    },
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-      ],
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
+          skillName: "HTML/CSS",
+          fontAwesomeClassname: "devicon:html5-wordmark",
+          style: { color: "#0052CC" },
         },
       ],
     },
