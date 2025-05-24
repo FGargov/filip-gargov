@@ -60,7 +60,7 @@ const skills = {
         "🐧 Acquiring foundational skills in Linux administration.",
         "📜 Developing foundational skills in Bash/Python scripting for automation.",
         "🔄 Learning foundational skills in CI/CD principles.",
-        "⚡ Strengthening foundational skills in Git version control.",
+        "* Strengthening foundational skills in Git version control.",
         "🐳 Comprehending foundational skills in Docker containerization.",
         "🗄️ Acquiring foundational knowledge of database concepts and management.",
         "🛠️ Understanding principles of configuration management (e.g., Ansible).",
@@ -202,9 +202,9 @@ const degrees = {
       alt_name: "Pragmatik",
       duration: "01/2025 - 06/2025",
       descriptions: [
-        "⚡ Comprehensive DevOps course at Pragmatic, gaining essential practical and theoretical knowledge for a career in the DevOps field.",
-        "⚡ Explored best practices for automation, infrastructure management, and team synchronization, preparing for roles like DevOps Engineer.",
-        "⚡ Applied these concepts by building a personal portfolio website, implementing a CI/CD pipeline with GitHub Actions, and deploying to GitHub Pages as a final project.",
+        "* Comprehensive DevOps course at Pragmatic, gaining essential practical and theoretical knowledge for a career in the DevOps field.",
+        "* Explored best practices for automation, infrastructure management, and team synchronization, preparing for roles like DevOps Engineer.",
+        "* Applied these concepts by building a personal portfolio website, implementing a CI/CD pipeline with GitHub Actions, and deploying to GitHub Pages as a final project.",
       ],
       website_link: "https://pragmatic.bg/courses/devops-course/",
     },
@@ -215,8 +215,8 @@ const degrees = {
       alt_name: "SoftUni",
       duration: "01/2024 - 02/2024",
       descriptions: [
-        "⚡ Acquired advanced JavaScript skills through the SoftUni JS Advanced program, covering core syntax, data structures, and object-oriented principles.",
-        "⚡ Gained expertise in DOM manipulation, event handling, advanced functions, and the application of functional programming techniques.",
+        "* Acquired advanced JavaScript skills through the SoftUni JS Advanced program, covering core syntax, data structures, and object-oriented principles.",
+        "* Gained expertise in DOM manipulation, event handling, advanced functions, and the application of functional programming techniques.",
       ],
       website_link: "https://softuni.bg/courses/js-advanced",
     },
@@ -227,9 +227,9 @@ const degrees = {
       alt_name: "Telerik Academy",
       duration: "05/2023 - 10/2023",
       descriptions: [
-        "⚡ Completed the intensive 6-month Alpha QA Track at Telerik Academy, focusing on hands-on practical skills in both manual and automated testing.",
-        "⚡ Mastered crucial programming fundamentals and modern QA principles, gaining proficiency with industry-standard tools and methodologies.",
-        "⚡ The program included significant project work and a strong emphasis on developing essential soft skills.",
+        "* Completed the intensive 6-month Alpha QA Track at Telerik Academy, focusing on hands-on practical skills in both manual and automated testing.",
+        "* Mastered crucial programming fundamentals and modern QA principles, gaining proficiency with industry-standard tools and methodologies.",
+        "* The program included significant project work and a strong emphasis on developing essential soft skills.",
       ],
       website_link: "https://www.telerikacademy.com/alpha/qa",
     },
@@ -240,8 +240,8 @@ const degrees = {
       alt_name: "NBU",
       duration: "03/2012 - 11/2014",
       descriptions: [
-        "⚡ Completed a Master of Business Administration program designed to deepen understanding of business operations and strategic goal achievement in dynamic environments.",
-        "⚡ Acquired skills in applying concrete strategies for organizational success and utilizing diagnostic tools for market and organizational forecasting.",
+        "* Completed a Master of Business Administration program designed to deepen understanding of business operations and strategic goal achievement in dynamic environments.",
+        "* Acquired skills in applying concrete strategies for organizational success and utilizing diagnostic tools for market and organizational forecasting.",
       ],
       website_link:
         "https://nbu.bg/en/about-nbu/new-bulgarian-university/university-campus",
@@ -253,9 +253,9 @@ const degrees = {
       alt_name: "NBU",
       duration: "09/2005 - 06/2010",
       descriptions: [
-        "⚡ Completed a Bachelor's degree in Finance, building a strong foundation in core economic principles and specialized financial knowledge.",
-        "⚡ Gained practical skills through internships and working on individual assignments on current issues in modern financial practice.",
-        "⚡ Acquired expertise in areas such as company and public finance, financial management, investments, and financial risk analysis.",
+        "* Completed a Bachelor's degree in Finance, building a strong foundation in core economic principles and specialized financial knowledge.",
+        "* Gained practical skills through internships and working on individual assignments on current issues in modern financial practice.",
+        "* Acquired expertise in areas such as company and public finance, financial management, investments, and financial risk analysis.",
       ],
       website_link:
         "https://nbu.bg/en/about-nbu/new-bulgarian-university/university-campus",
@@ -330,48 +330,36 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
-          description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+          title: "Senior Expert - Short term support schemes",
+          company: "State Fund Agriculture",
+          company_url: "https://www.dfz.bg/bg/home",
+          logo_path: "dfz_logo.png",
+          duration: "June 2015 - Present",
+          location: "Sofia, Bulgaria",
+          description: `* Compiled diverse reports, references, and proposals related to directorate activities, alongside analyzing incoming projects and preparing associated contracts.
+              * Participated in administrative checks, processed documentation for short-term support schemes, and oversaw the allocation and execution of commitments for loans and subsidies.
+              * Additionally, contributed to system improvements by preparing requests for software changes in the Integrated Administration and Control System (IACS).`,
+          color: "#007bff", // Примерно, може да изберете подходящ цвят за ДФЗ
+        },
+        {
+          title: "Junior Expert - Short term support schemes",
+          company: "State Fund Agriculture",
+          company_url: "https://www.dfz.bg/bg/home",
+          logo_path: "dfz_logo.png",
+          duration: "September 2012 - May 2014",
+          location: "Sofia, Bulgaria",
+          description: `* Participated in administrative checks and processing of documentation for short-term support schemes. * Handled communication and correspondence with external institutions and internal structures of the Fund. * Provided methodological support to the territorial units of the Fund.`,
           color: "#000000",
         },
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
-        },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
+          title: "Junior Expert - Investment support schemes",
+          company: "State Fund Agriculture",
+          company_url: "https://www.dfz.bg/bg/home",
+          logo_path: "dfz_logo.png",
+          duration: "May 2011 - August 2012",
+          location: "Sofia, Bulgaria",
+          description: `* Administered and monitored financial support provided to farms and enterprises. * Managed contracts and monitored the execution of approved projects. * Conducted compliance checks with the conditions and requirements of support schemes. * Offered information and assistance in applying for various support schemes.`,
+          color: "#000000",
         },
       ],
     },
@@ -382,7 +370,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "This section showcases projects where I've applied my skills in quality assurance and DevOps.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -393,29 +381,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-    {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
-    },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
-  ],
+  data: [],
 };
 
 // Contact Page
