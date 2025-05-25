@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02b089be0ca513cd48474ad2595ceabe",
+    "revision": "df7d42acf47c8b8c8dffdbca86362c81",
     "url": "/my-portfolio/index.html"
   },
   {
-    "revision": "4d1caf4ba4df3a164f5f",
+    "revision": "26f037a76d38d7ae20d5",
     "url": "/my-portfolio/static/css/main.b5c7afa3.chunk.css"
   },
   {
-    "revision": "248610c6e0a76eb51c16",
-    "url": "/my-portfolio/static/js/2.444be0f2.chunk.js"
+    "revision": "1dfed0520de0734ada78",
+    "url": "/my-portfolio/static/js/2.ae6b4b6f.chunk.js"
   },
   {
-    "revision": "4d1caf4ba4df3a164f5f",
-    "url": "/my-portfolio/static/js/main.a16d51b0.chunk.js"
+    "revision": "26f037a76d38d7ae20d5",
+    "url": "/my-portfolio/static/js/main.ffaeecf3.chunk.js"
   },
   {
     "revision": "846da53833ae0c03d007",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/my-portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "f594aff3e2bffce5b335eb6bb658d8a5",
+    "url": "/my-portfolio/static/media/NBU_logo.f594aff3.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -92,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/developerActivity.3e23ca14.svg"
   },
   {
-    "revision": "eb2c097e6c63603fdfcb0db9784d3461",
-    "url": "/my-portfolio/static/media/devops_illustration.eb2c097e.png"
+    "revision": "9f0bbb0ea291ebc17c38b86040f7d1f2",
+    "url": "/my-portfolio/static/media/devops_illustration.9f0bbb0e.png"
   },
   {
     "revision": "63f707f224c8a842ac928c36e3be879a",
@@ -204,6 +208,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/intel_logo.29152cf7.jpg"
   },
   {
+    "revision": "bed6078220d249f5aa524cd8574572ef",
+    "url": "/my-portfolio/static/media/istqb_logo.bed60782.png"
+  },
+  {
     "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
     "url": "/my-portfolio/static/media/iu_logo.60ed0bd3.png"
   },
@@ -232,6 +240,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/portfolio.414dfbd9.gif"
   },
   {
+    "revision": "7f954c7217010984ef6c4edba0c113f2",
+    "url": "/my-portfolio/static/media/pragmatik_logo.7f954c72.png"
+  },
+  {
+    "revision": "564b2f467618b37c37e307834020f480",
+    "url": "/my-portfolio/static/media/profile.564b2f46.png"
+  },
+  {
     "revision": "5faf790badc18fa9030f94836ece1df1",
     "url": "/my-portfolio/static/media/programmer.5faf790b.svg"
   },
@@ -244,6 +260,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/pwa.71408db7.png"
   },
   {
+    "revision": "2c4bdf7a8425148c07e0d6cc83ce6b26",
+    "url": "/my-portfolio/static/media/softuni_logo.2c4bdf7a.png"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/my-portfolio/static/media/stanford_logo.2c497738.png"
   },
@@ -254,6 +274,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/my-portfolio/static/media/talksCardBackAlt.3fa54242.svg"
+  },
+  {
+    "revision": "24e59402d0e28d785ee97bca299b7636",
+    "url": "/my-portfolio/static/media/telerik_logo.24e59402.png"
   },
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
