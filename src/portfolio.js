@@ -23,7 +23,8 @@ const greeting = {
   title: "Filip Gargov",
   logo_name: "Filip Gargov",
   nickname: "FGargov",
-  subTitle: "",
+  subTitle:
+    "Hello! I'm Filip. I am on my DevOps journey, currently exploring cloud technologies, automation and scalable infrastructure.",
   resumeLink:
     "https://1drv.ms/b/c/4f2b4b1f5e2bd5e5/ETCRWxTwheBKrKysdWG9onoB-Qwc7GJoL86dE5kqaEFrog?e=Uv9uL2",
   portfolio_repository: "https://github.com/FGargov/my-portfolio",
@@ -55,7 +56,7 @@ const skills = {
   data: [
     {
       title: "DevOps Essentials",
-      fileName: "DataScienceImg",
+      staticImagePath: "devops_illustration.png",
       skills: [
         "🐧 Acquiring foundational skills in Linux administration.",
         "📜 Developing foundational skills in Bash/Python scripting for automation.",
@@ -138,7 +139,7 @@ const skills = {
       skills: [
         "🧪 Focusing on QA Engineering, with comprehensive training in both manual and automated testing methodologies.",
         "⚙️ Developing and executing detailed test plans and test cases to ensure software quality.",
-        "🐞 Identifying, documenting, and tracking software defects using tools like Jira and Xray.",
+        "🐞 Identifying, documenting and tracking software defects using tools like Jira and Xray.",
         "📊 API testing using tools like Postman and REST Assured to validate service functionality.",
         "🤖 Developing capabilities in test automation leveraging frameworks like Selenium WebDriver and Cucumber.",
         "📈 Committed to continuous learning and adopting new QA technologies and best practices.",
@@ -244,7 +245,7 @@ const degrees = {
         "* Acquired skills in applying concrete strategies for organizational success and utilizing diagnostic tools for market and organizational forecasting.",
       ],
       website_link:
-        "https://nbu.bg/en/about-nbu/new-bulgarian-university/university-campus",
+        "https://ecatalog.nbu.bg/default.asp?V_Year=2023&PageShow=programpresent&P_Menu=generalinfo&Fac_ID=4&M_PHD=0&P_ID=971&TabIndex=1&l=1",
     },
     {
       title: "New Bulgarian University",
@@ -258,7 +259,7 @@ const degrees = {
         "* Acquired expertise in areas such as company and public finance, financial management, investments, and financial risk analysis.",
       ],
       website_link:
-        "https://nbu.bg/en/about-nbu/new-bulgarian-university/university-campus",
+        "https://ecatalog.nbu.bg/default.asp?V_Year=2024&PageShow=programpresent&P_Menu=admission&Fac_ID=3&M_PHD=0&P_ID=1820&TabIndex=1&l=1",
     },
   ],
 };
@@ -339,7 +340,7 @@ const experience = {
           description: `* Compiled diverse reports, references, and proposals related to directorate activities, alongside analyzing incoming projects and preparing associated contracts.
               * Participated in administrative checks, processed documentation for short-term support schemes, and oversaw the allocation and execution of commitments for loans and subsidies.
               * Additionally, contributed to system improvements by preparing requests for software changes in the Integrated Administration and Control System (IACS).`,
-          color: "#007bff", // Примерно, може да изберете подходящ цвят за ДФЗ
+          color: "#007bff",
         },
         {
           title: "Junior Expert - Short term support schemes",
@@ -390,7 +391,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "profile.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I'm always open to connecting! For collaborations, inquiries or a discussion about DevOps and quality assurance, feel free to reach out via email, LinkedIn or phone. I'll get back to you as soon as I can.",
   },
   blogSection: {
     display: false,
