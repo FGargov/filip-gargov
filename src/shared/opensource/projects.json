@@ -5,32 +5,44 @@
       "name": "WEare-Final-Project",
       "createdAt": "2023-12-25T22:04:03Z",
       "url": "https://github.com/FGargov/WEare-Final-Project",
-      "description": null,
+      "description": "Conducting manual and automated testing to ensure that the software meets user requirements.",
       "isFork": true,
       "languages": [
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
           "name": "Java",
           "iconifyClass": "logos-java"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Selenium",
+          "iconifyClass": "logos-selenium"
+        },
+        {
+          "name": "Rest Assured",
+          "iconifyClass": "mdi:api"
+        },
+        {
+          "name": "JUnit",
+          "iconifyClass": "devicon:junit"
+        },
+        {
+          "name": "Maven",
+          "iconifyClass": "simple-icons:apachemaven"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker-icon"
         }
       ]
     },
@@ -39,12 +51,24 @@
       "name": "HerbaVita-Project-Cucumber",
       "createdAt": "2024-09-11T14:09:54Z",
       "url": "https://github.com/FGargov/HerbaVita-Project-Cucumber",
-      "description": "Cucumber BDD project",
+      "description": "Test automation project for e-commerce application, using BDD with Cucumber and Selenium.",
       "isFork": false,
       "languages": [
         {
           "name": "Java",
           "iconifyClass": "logos-java"
+        },
+        {
+          "name": "Cucumber",
+          "iconifyClass": "logos-cucumber"
+        },
+        {
+          "name": "Selenium",
+          "iconifyClass": "logos-selenium"
+        },
+        {
+          "name": "Maven",
+          "iconifyClass": "simple-icons:apachemaven"
         },
         {
           "name": "HTML",
@@ -53,11 +77,11 @@
       ]
     },
     {
-      "id": "R_kgDOOrlFxg",
-      "name": "web-app-challenge-hw",
-      "createdAt": "2025-05-17T10:05:35Z",
-      "url": "https://github.com/FGargov/web-app-challenge-hw",
-      "description": null,
+      "id": "R_kgDOFinalProject",
+      "name": "DevOps-project-flask-postgresql-nginx",
+      "createdAt": "2025-06-01T10:00:00Z",
+      "url": "https://github.com/FGargov/final-project-flask-postgresql-nginx",
+      "description": "DevOps project which utilizing Flask, PostgreSQL, and Nginx with Docker Compose and CI/CD.",
       "isFork": false,
       "languages": [
         {
@@ -65,8 +89,28 @@
           "iconifyClass": "logos-python"
         },
         {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
+        },
+        {
+          "name": "Nginx",
+          "iconifyClass": "logos-nginx"
+        },
+        {
           "name": "Dockerfile",
           "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "GitHub Actions",
+          "iconifyClass": "logos:github-actions"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     }

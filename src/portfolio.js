@@ -61,7 +61,7 @@ const skills = {
         "🐧 Acquiring foundational skills in Linux administration.",
         "📜 Developing foundational skills in Bash/Python scripting for automation.",
         "🔄 Learning foundational skills in CI/CD principles.",
-        "* Strengthening foundational skills in Git version control.",
+        "🗃️ Strengthening foundational skills in Git version control.",
         "🐳 Comprehending foundational skills in Docker containerization.",
         "🗄️ Acquiring foundational knowledge of database concepts and management.",
         "🛠️ Understanding principles of configuration management (e.g., Ansible).",
@@ -204,8 +204,8 @@ const degrees = {
       duration: "01/2025 - 06/2025",
       descriptions: [
         "* Comprehensive DevOps course at Pragmatic, gaining essential practical and theoretical knowledge for a career in the DevOps field.",
-        "* Explored best practices for automation, infrastructure management, and team synchronization, preparing for roles like DevOps Engineer.",
-        "* Applied these concepts by building a personal portfolio website, implementing a CI/CD pipeline with GitHub Actions, and deploying to GitHub Pages as a final project.",
+        "* Explored best practices for automation, infrastructure management and team synchronization, preparing for roles like DevOps Engineer.",
+        "* Applied these concepts by building a personal portfolio website, implementing a CI/CD pipeline with GitHub Actions and deploying to GitHub Pages as a final project.",
       ],
       website_link: "https://pragmatic.bg/courses/devops-course/",
     },
@@ -216,8 +216,8 @@ const degrees = {
       alt_name: "SoftUni",
       duration: "01/2024 - 02/2024",
       descriptions: [
-        "* Acquired advanced JavaScript skills through the SoftUni JS Advanced program, covering core syntax, data structures, and object-oriented principles.",
-        "* Gained expertise in DOM manipulation, event handling, advanced functions, and the application of functional programming techniques.",
+        "* Acquired advanced JavaScript skills through the SoftUni JS Advanced program, covering core syntax, data structures and object-oriented principles.",
+        "* Gained expertise in DOM manipulation, event handling, advanced functions and the application of functional programming techniques.",
       ],
       website_link: "https://softuni.bg/courses/js-advanced",
     },
@@ -256,7 +256,7 @@ const degrees = {
       descriptions: [
         "* Completed a Bachelor's degree in Finance, building a strong foundation in core economic principles and specialized financial knowledge.",
         "* Gained practical skills through internships and working on individual assignments on current issues in modern financial practice.",
-        "* Acquired expertise in areas such as company and public finance, financial management, investments, and financial risk analysis.",
+        "* Acquired expertise in areas such as company and public finance, financial management, investments and financial risk analysis.",
       ],
       website_link:
         "https://ecatalog.nbu.bg/default.asp?V_Year=2024&PageShow=programpresent&P_Menu=admission&Fac_ID=3&M_PHD=0&P_ID=1820&TabIndex=1&l=1",
