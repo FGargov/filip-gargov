@@ -107,7 +107,3 @@ _(If your deployment is fully automated via a CI/CD pipeline, such as GitHub Act
 - **GitHub:** [https://github.com/FGargov](https://github.com/FGargov)
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. _(Optional: Create a LICENSE.md file if you wish to include a license.)_
