@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website, showcasing my journey, skills, and projects as a DevOps enthusiast and software developer.
 
-**Live Site:** [https://filipgargov.com/home](https://filipgargov.com/home)
+**Live Site:** [https://filipgargov.com](https://filipgargov.com)
 
 ---
 
@@ -44,23 +44,21 @@ To set up and run this project on your local machine for development or testing:
 **1. Prerequisites:**
 
 - Node.js (v16.x or later recommended)
-- npm or yarn
 
 **2. Clone the Repository:**
-git clone https://github.com/FGargov/my-portfolio.git
-cd my-portfolio
+
+    git clone https://github.com/FGargov/my-portfolio.git
+    cd my-portfolio
 
 **3. Install Dependencies:**
-Using npm:
-npm install
-Or using yarn:
-yarn install
+
+    Using npm:
+    npm install
 
 **4. Start the Development Server:**
-Using npm:
-npm start
-Or using yarn:
-yarn start
+
+    Using npm:
+    npm start
 
 The application will typically open in your default web browser at `http://localhost:3000`.
 
