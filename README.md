@@ -1,6 +1,6 @@
 # Filip Gargov - Personal Portfolio Website
 
-This repository contains the source code for my personal portfolio website, showcasing my journey, skills, and projects as a DevOps enthusiast and software developer.
+This repository contains the source code for my personal portfolio website, showcasing my journey, skills, and projects as a DevOps enthusiast.
 
 **Live Site:** [https://filipgargov.com](https://filipgargov.com)
 
