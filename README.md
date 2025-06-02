@@ -32,7 +32,7 @@ This portfolio website is a single-page application (SPA) built with modern web 
 
 - **Core Framework:** [React.js](https://reactjs.org/)
 - **Styling:** CSS3 (Potentially with CSS Modules or a specific methodology if you used one)
-- **Content Management:** Project details and other dynamic content are managed via JSON files within the `src/shared/` or `src/data/` directory.
+- **Content Management:** Project details and other dynamic content are managed via JSON files within the `src/shared/` directory. `src/portfolio.js` file contains the complete information about the user.
 - **Responsiveness:** The site is designed to be responsive and accessible across various devices (desktops, tablets, and mobile phones).
 
 ---
