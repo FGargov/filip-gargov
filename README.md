@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website, showcasing my journey, skills, and projects as a DevOps enthusiast and software developer.
 
-**Live Site:** [https://filipgargov.com/home](https://filipgargov.com/home)
+**Live Site:** [https://filipgargov.com](https://filipgargov.com)
 
 ---
 
@@ -49,16 +49,12 @@ To set up and run this project on your local machine for development or testing:
 
 **2. Clone the Repository:**
 
-    ```
     git clone https://github.com/FGargov/my-portfolio.git
     cd my-portfolio
-    ```
 
 **3. Install Dependencies:**
 
-    ```
     npm install
-    ```
 
 **4. Update GitHub Data (Optional but Recommended before Build/Deploy):**
 To fetch the latest data from your GitHub profile (Pull Requests, Pinned Repositories, etc.), run the data fetching script:
@@ -68,9 +64,8 @@ This will update the JSON files in the `src/shared/opensource/` directory.
 
 **5. Start the Development Server:**
 
-    ```
     npm start
-    ```
+
     The application will typically open in your default web browser at `http://localhost:3000`.
 
 **6. Build for Production (if needed before deployment):**
@@ -94,12 +89,6 @@ The typical deployment process involves:
 **Using `npm run deploy` (if configured):**
 If you have an `npm run deploy` script in your `package.json` (e.g., for deploying to GitHub Pages or another service), you can use it:
 npm run deploy
-
-_(Briefly describe what your `npm run deploy` script does, e.g., "This script builds the project and pushes the `build` folder to the `gh-pages` branch.")_
-
-_(If your deployment is fully automated via a CI/CD pipeline, such as GitHub Actions triggering on every push to the `main` branch, you can describe that process here instead.)_
-
----
 
 ## Social Links
 
