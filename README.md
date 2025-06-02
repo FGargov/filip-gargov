@@ -70,11 +70,3 @@ The application will typically open in your default web browser at `http://local
 
 - **LinkedIn:** [https://www.linkedin.com/in/filip-gargov-1b35359/](https://www.linkedin.com/in/filip-gargov-1b35359/)
 - **GitHub:** [https://github.com/FGargov](https://github.com/FGargov)
-
----
-
-## Author
-
-- **Filip Gargov**
-
----
