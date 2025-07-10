@@ -26,8 +26,8 @@ const greeting = {
   subTitle:
     "Hello! I'm Filip. I am on my DevOps journey, currently exploring cloud technologies, automation and scalable infrastructure.",
   resumeLink:
-    "https://1drv.ms/b/c/4f2b4b1f5e2bd5e5/ETCRWxTwheBKrKysdWG9onoB-Qwc7GJoL86dE5kqaEFrog?e=Uv9uL2",
-  portfolio_repository: "https://github.com/FGargov/my-portfolio",
+    "https://1drv.ms/b/c/4f2b4b1f5e2bd5e5/EV25xLIqkXhPpbcjuq7H-c8B8knpaUp7rW5ykjVPHrfwmA?e=89ZvRJ",
+  portfolio_repository: "https://github.com/FGargov/filip-gargov",
   githubProfile: "https://github.com/FGargov",
 };
 
@@ -197,10 +197,10 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Pragmatik",
+      title: "Pragmatic",
       subtitle: "DevOps Essentials",
       logo_path: "pragmatik_logo.png",
-      alt_name: "Pragmatik",
+      alt_name: "Pragmatic",
       duration: "01/2025 - 06/2025",
       descriptions: [
         "* Comprehensive DevOps course at Pragmatic, gaining essential practical and theoretical knowledge for a career in the DevOps field.",
@@ -267,6 +267,14 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Pragmatic",
+      subtitle: "DevOps Essentials",
+      logo_path: "pragmatik_logo.png",
+      certificate_link:
+        "https://1drv.ms/i/c/4f2b4b1f5e2bd5e5/EegAqnqXb4lOi-W1vK73Cs4B9Ad70vV_o5reMR1x-vcNdg?e=G7cpdW",
+      alt_name: "Udemy",
+    },
+    {
       title: "Udemy",
       subtitle: "The Git & Github Bootcamp",
       logo_path: "udemy_logo.png",
@@ -314,6 +322,14 @@ const certifications = {
       certificate_link:
         "https://softuni.bg/certificates/details/18644/d668a8e7",
       alt_name: "Software University",
+    },
+    {
+      title: "EAQUALS - English Level B2",
+      subtitle: "Council of Europe Level B2.2",
+      logo_path: "avo_logo.png",
+      certificate_link:
+        "https://1drv.ms/b/c/4f2b4b1f5e2bd5e5/ERuyrvmMIztHu9PALi_0PIYBCAvV-lVmcFcPZMVWSx9TAA?e=VlJKsC",
+      alt_name: "AVO",
     },
   ],
 };

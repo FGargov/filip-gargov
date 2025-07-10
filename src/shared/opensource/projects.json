@@ -81,7 +81,7 @@
       "name": "DevOps-project-flask-postgresql-nginx",
       "createdAt": "2025-06-01T10:00:00Z",
       "url": "https://github.com/FGargov/final-project-flask-postgresql-nginx",
-      "description": "DevOps project which utilizing Flask, PostgreSQL, and Nginx with Docker Compose and CI/CD.",
+      "description": "DevOps project which utilizing Flask, PostgreSQL, and Nginx with Docker Compose and CI/CD. Includes Ansible for automated deployment and configuration management.",
       "isFork": false,
       "languages": [
         {
@@ -103,6 +103,10 @@
         {
           "name": "GitHub Actions",
           "iconifyClass": "logos:github-actions"
+        },
+        {
+          "name": "Ansible",
+          "iconifyClass": "simple-icons:ansible"
         },
         {
           "name": "HTML",
