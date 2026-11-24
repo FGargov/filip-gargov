@@ -1,11 +1,94 @@
 {
   "data": [
     {
+      "id": "qnap-homelab-infrastructure",
+      "name": "QNAP-Homelab-Infrastructure",
+      "createdAt": "2026-11-18T13:17:50Z",
+      "url": "https://github.com/FGargov/qnap-homelab-infrastructure",
+      "description": "QNAP homelab with verified Nextcloud and MariaDB disaster recovery, Prometheus and Grafana monitoring for Nextcloud and ONLYOFFICE, and automated deployment with Ansible and Docker Compose.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "QNAP",
+          "iconifyClass": "simple-icons:qnap",
+          "color": "#0C2E82"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker-icon"
+        },
+        {
+          "name": "Ansible",
+          "iconifyClass": "simple-icons:ansible",
+          "color": "#EE0000"
+        },
+        {
+          "name": "Prometheus",
+          "iconifyClass": "logos-prometheus"
+        },
+        {
+          "name": "Grafana",
+          "iconifyClass": "logos-grafana"
+        },
+        {
+          "name": "Nextcloud",
+          "iconifyClass": "simple-icons:nextcloud",
+          "color": "#0082C9"
+        },
+        {
+          "name": "MariaDB",
+          "iconifyClass": "logos-mariadb-icon"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOFinalProject",
+      "name": "DevOps-project-flask-postgresql-nginx",
+      "createdAt": "2025-06-01T10:00:00Z",
+      "url": "https://github.com/FGargov/final-project-flask-postgresql-nginx",
+      "description": "DevOps project which utilizing Flask, PostgreSQL, and Nginx with Docker Compose and CI/CD. Includes Ansible for automated deployment and configuration management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
+        },
+        {
+          "name": "Nginx",
+          "iconifyClass": "logos-nginx"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "GitHub Actions",
+          "iconifyClass": "logos:github-actions"
+        },
+        {
+          "name": "Ansible",
+          "iconifyClass": "simple-icons:ansible"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOK9nq0g",
       "name": "WEare-Final-Project",
       "createdAt": "2023-12-25T22:04:03Z",
       "url": "https://github.com/FGargov/WEare-Final-Project",
-      "description": "Conducting manual and automated testing to ensure that the software meets user requirements.",
+      "description": "Manual, UI, and API testing of the WEare social network, covering registration, authentication, user profiles, posts, comments, and connections. Combines Selenium WebDriver, REST Assured, and JUnit automation with test cases in Jira/Xray and Allure reports.",
       "isFork": true,
       "languages": [
         {
@@ -51,7 +134,7 @@
       "name": "HerbaVita-Project-Cucumber",
       "createdAt": "2024-09-11T14:09:54Z",
       "url": "https://github.com/FGargov/HerbaVita-Project-Cucumber",
-      "description": "Test automation project for e-commerce application, using BDD with Cucumber and Selenium.",
+      "description": "BDD test automation for a health and wellness e-commerce application using Java, Cucumber, and Selenium. Covers login, product search, product details, shopping cart, and checkout flows, with reusable Page Objects, shared test context, and ExtentReports with failure screenshots.",
       "isFork": false,
       "languages": [
         {
@@ -73,48 +156,6 @@
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOFinalProject",
-      "name": "DevOps-project-flask-postgresql-nginx",
-      "createdAt": "2025-06-01T10:00:00Z",
-      "url": "https://github.com/FGargov/final-project-flask-postgresql-nginx",
-      "description": "DevOps project which utilizing Flask, PostgreSQL, and Nginx with Docker Compose and CI/CD. Includes Ansible for automated deployment and configuration management.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "PostgreSQL",
-          "iconifyClass": "logos-postgresql"
-        },
-        {
-          "name": "Nginx",
-          "iconifyClass": "logos-nginx"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        },
-        {
-          "name": "GitHub Actions",
-          "iconifyClass": "logos:github-actions"
-        },
-        {
-          "name": "Ansible",
-          "iconifyClass": "simple-icons:ansible"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
       ]
     }
